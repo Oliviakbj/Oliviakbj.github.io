@@ -10,8 +10,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    color: #8B5742;
-    background-color: DarkSalmon;
+    color: #000000
+    background-color: #FFFFFF;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
