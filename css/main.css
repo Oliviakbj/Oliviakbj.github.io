@@ -1,6 +1,5 @@
 h1 {
     font-size: 20px;
-    font-color: #000000
     font-family:'Big Caslon';
     background-color: #FFFFFF;
     border-style: double;
@@ -13,7 +12,6 @@ h2 {
     color: #000000;
     font-size; 14px;
     font-family; 'Goudy Old style';
-    font-color: #000000
     text-align: center;
 }
         
@@ -26,7 +24,6 @@ ul {
 h3 {
     font-size: 7px;
     font-family: 'Goudy Old style';
-    font-color: #000000
     border-color: #000000;
     border-style: double;
     text-align: center;
@@ -35,7 +32,6 @@ h3 {
 h4 {
     font-size: 7px;
     font-family: 'Goudy Old style';
-    font-color: #000000
     border-color: #000000;
     border-style: double;
     text-align: center;
@@ -44,7 +40,6 @@ h4 {
 h5 {   
     font-size: 7px;
     font-family: 'Goudy Old style';
-    font-color: #000000
     border-color: #000000;
     border-style: double;
     text-align: center;
