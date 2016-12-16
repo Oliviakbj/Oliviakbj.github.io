@@ -4,6 +4,7 @@ h1 {
     color: #000000
     background-color: #FFFFFF;
     border: 2px solid #D7263D;
+    border-style: double;
     border-color: #000000;
     font-size: 3em;
     font-family:'Big Caslon';
@@ -23,18 +24,21 @@ h3 {
     font-family: 'Goudy Old style';
     border: .5px solid #D7263D;
     border-color: #000000;
+    border-style: double;
  }
 h4 {
     font-size: 2em;
     font-family: 'Goudy Old style';
     border: .5px solid #D7263D;
     border-color: #000000;
+    border-style: double;
 }
 h5 {   
     font-size: 2em;
     font-family: 'Goudy Old style';
     border: .5px solid #D7263D;
     border-color: #000000;
+    border-style: double;
 }
 
 
