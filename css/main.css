@@ -1,9 +1,7 @@
 
 h1 {
-    background-image: https://www.flixbus.com/sites/default/files/styles/header_image/public/city_primary_images/stockholm-header.jpg?itok=TM8l4lkz;
     color: #000000
     background-color: #FFFFFF;
-    border: 2px solid #D7263D;
     border-style: double;
     border-color: #000000;
     font-size: 3em;
@@ -22,21 +20,18 @@ ul {
 h3 {
     font-size: 2em;
     font-family: 'Goudy Old style';
-    border: .5px solid #D7263D;
     border-color: #000000;
     border-style: double;
  }
 h4 {
     font-size: 2em;
     font-family: 'Goudy Old style';
-    border: .5px solid #D7263D;
     border-color: #000000;
     border-style: double;
 }
 h5 {   
     font-size: 2em;
     font-family: 'Goudy Old style';
-    border: .5px solid #D7263D;
     border-color: #000000;
     border-style: double;
 }
