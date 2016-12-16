@@ -5,6 +5,7 @@ h1 {
     font-family:'Big Caslon';
     background-color: #FFFFFF;
     border-style: double;
+    border-width: 15px;
     border-color: #000000;
 }
 
