@@ -2,7 +2,7 @@
 h1 {
     color: #000000
     background-color: #FFFFFF;
-    border: 3px solid #D7263D;
+    border: 2px solid #D7263D;
     border-color: #000000;
     font-size: 3em;
     font-family:'Big Caslon';
@@ -11,7 +11,7 @@ h2 {
     color: #000000;
     font-size; 2em;
     font-family; 'Goudy Old style';
-    border: 3px solid #D7263D;
+    border: 1px solid #D7263D;
     border-color: #000000;
 ul {
     font-size: 1em;
@@ -20,19 +20,19 @@ ul {
 h3 {
     font-size: 2em;
     font-family: 'Goudy Old style';
-    border: 3px solid #D7263D;
+    border: .5px solid #D7263D;
     border-color: #000000;
  }
 h4 {
     font-size; 2em;
     font-family: 'Goudy Old style';
-    border: 3px solid #D7263D;
+    border: .5px solid #D7263D;
     border-color: #000000;
 }
 h5 {   
     font-size: 2em;
     font-family: 'Goudy Old style';
-    border: 3px solid #D7263D;
+    border: .5px solid #D7263D;
     border-color: #000000;
 }
 
