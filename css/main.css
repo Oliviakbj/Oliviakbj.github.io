@@ -19,6 +19,7 @@ h2 {
     font-family: 'Goudy Old style';
     border-color: #000000;
     border-style: double;
+    border-width: 5px;
     text-align: center;
  }
     
@@ -27,6 +28,7 @@ h3 {
     font-family: 'Goudy Old style';
     border-color: #000000;
     border-style: double;
+    border-width: 5px;
     text-align: center;
 }
     
@@ -35,6 +37,7 @@ h4 {
     font-family: 'Goudy Old style';
     border-color: #000000;
     border-style: double;
+    border-width: 5px;
     text-align: center;
 }
 
