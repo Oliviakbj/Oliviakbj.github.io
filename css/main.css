@@ -1,19 +1,4 @@
-* {
-  border: 1px solid rgba(0, 0, 0, 0.3);
-  margin: 0;
-  padding: 0;
-}
-body {
-    margin: 60px auto;
-    width: 70%;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
+
 h1 {
     color: #000000
     background-color: #FFFFFF;
@@ -41,18 +26,6 @@ h4 {
 h5 {   
     font-size: 2em;
     font-family: 'Goudy Old style';
-}
-
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
-.banner {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
-  background-size: cover;
-  background-position: bottom center;
-  height: 700px;
-  width: 100%;
 }
 
 
