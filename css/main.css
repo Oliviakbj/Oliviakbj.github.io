@@ -47,5 +47,13 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+.banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
 
 
